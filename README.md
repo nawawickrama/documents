@@ -41,8 +41,9 @@ Documents/
 
 One inbox for WhatsApp, Facebook, Instagram and the Let's Ride in-app chat, so Claude can "check messages" and reply.
 Runs on the Coolify server (project **Support Inbox**), set up 3 Nov 2026. Free, self-hosted Community Edition; sign-up is off.
-- Temporary address: http://chatwoot-jmuhxak5w2dm3cbhp5n6dx0e.72.61.176.173.sslip.io (needs a real HTTPS domain before Meta channels)
-- Still to do: HTTPS domain, email (SMTP) settings, connect Facebook / Instagram / WhatsApp (Meta business verification),
+- Address: **https://support.letsride.lk** (Cloudflare DNS record `support` → 72.61.176.173, grey cloud / DNS only;
+  Let's Encrypt certificate from Coolify). Chatwoot 4.19.1.
+- Still to do: email (SMTP) settings, connect Facebook / Instagram / WhatsApp (Meta business verification),
   Let's Ride in-app chat via Chatwoot's API channel, and a Claude connector for read and reply.
 - Rule: Claude drafts replies, and sends only after I say so.
 
