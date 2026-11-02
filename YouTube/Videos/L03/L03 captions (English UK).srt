@@ -1,0 +1,399 @@
+1
+00:00:01,000 --> 00:00:07,149
+In 1990, the average Pole produced less than a third of what the average German did.
+
+2
+00:00:07,149 --> 00:00:09,125
+Today, it's three quarters.
+
+3
+00:00:10,125 --> 00:00:14,127
+On the way, Poland overtook Hungary, Greece and Portugal,
+
+4
+00:00:14,127 --> 00:00:17,075
+and it's now within five percent of Spain.
+
+5
+00:00:18,075 --> 00:00:21,755
+This is how it happened, in thirty-five years of numbers,
+
+6
+00:00:21,755 --> 00:00:23,950
+and what those numbers don't show.
+
+7
+00:00:25,550 --> 00:00:29,146
+First, what we're measuring. This is GDP per person:
+
+8
+00:00:29,146 --> 00:00:34,677
+the value of everything a country produces in a year, divided by its population.
+
+9
+00:00:34,677 --> 00:00:37,374
+It's in constant international dollars,
+
+10
+00:00:37,374 --> 00:00:44,150
+which take out both inflation and the differences in what things cost from one country to another.
+
+11
+00:00:45,150 --> 00:00:49,890
+It's the standard way to compare average living standards between countries.
+
+12
+00:00:49,890 --> 00:00:53,633
+It isn't everything: it doesn't tell you who gets the money,
+
+13
+00:00:53,633 --> 00:00:57,500
+or how many hours people work for it. We'll come back to that.
+
+14
+00:00:58,500 --> 00:01:03,450
+We're following ten countries: the four biggest economies of western Europe,
+
+15
+00:01:03,450 --> 00:01:08,725
+three from the south, and three from central Europe: Czechia, Hungary and Poland.
+
+16
+00:01:10,125 --> 00:01:16,381
+1990. Communism in Poland has just ended. Poland's figure is 12,
+
+17
+00:01:16,381 --> 00:01:20,975
+821 dollars a person, the lowest on this chart.
+
+18
+00:01:21,975 --> 00:01:32,109
+Hungary is at 21,297. Greece and Portugal, at about 27,000. And Germany, at 42,355:
+
+19
+00:01:32,109 --> 00:01:35,650
+more than three times Poland.
+
+20
+00:01:36,650 --> 00:01:42,402
+On the first of January 1990, Poland started a fast and painful reform programme,
+
+21
+00:01:42,402 --> 00:01:46,875
+often called shock therapy. Prices were freed almost overnight,
+
+22
+00:01:46,875 --> 00:01:51,775
+support for state firms was cut, and the currency became convertible.
+
+23
+00:01:52,775 --> 00:01:58,398
+The first years hurt. In 1991, the figure fell by seven percent,
+
+24
+00:01:58,398 --> 00:02:05,250
+and unemployment rose fast. Poland only got back above its 1990 level in 1994.
+
+25
+00:02:06,450 --> 00:02:10,000
+But then the economy grew, and it kept on growing.
+
+26
+00:02:12,400 --> 00:02:18,700
+By 2000, Poland is at 18,566 dollars. Still the lowest of the ten,
+
+27
+00:02:18,700 --> 00:02:22,900
+but its gap to Hungary has more than halved.
+
+28
+00:02:24,300 --> 00:02:30,864
+2004. Poland joins the European Union, together with nine other countries,
+
+29
+00:02:30,864 --> 00:02:37,250
+including Czechia and Hungary. Poland's figure: 20,879 dollars a person.
+
+30
+00:02:38,250 --> 00:02:40,827
+Membership brought three big things.
+
+31
+00:02:40,827 --> 00:02:44,836
+Polish firms could sell freely across the single market.
+
+32
+00:02:44,836 --> 00:02:50,492
+Western companies built factories and offices. And EU funds paid for new roads,
+
+33
+00:02:50,492 --> 00:02:52,425
+railways and water systems.
+
+34
+00:02:53,425 --> 00:02:55,960
+It also opened western job markets.
+
+35
+00:02:55,960 --> 00:02:59,944
+Hundreds of thousands of Poles moved to work in the UK,
+
+36
+00:02:59,944 --> 00:03:04,725
+in Ireland and later in Germany, and many of them sent money home.
+
+37
+00:03:05,725 --> 00:03:13,033
+From 2004 to 2008, Poland's figure rose by 22 percent, the fastest of the ten.
+
+38
+00:03:13,033 --> 00:03:15,375
+Czechia was close behind.
+
+39
+00:03:16,775 --> 00:03:22,630
+Then the financial crisis hits Europe. Watch Greece: 41,
+
+40
+00:03:22,630 --> 00:03:29,950
+709 dollars a person in 2008, down to 37,567 by 2010. Spain falls too,
+
+41
+00:03:29,950 --> 00:03:33,400
+and so does almost everyone else.
+
+42
+00:03:34,400 --> 00:03:40,160
+Poland doesn't fall. In 2009, its economy grew by two point six percent.
+
+43
+00:03:40,160 --> 00:03:44,400
+Every other country in today's European Union shrank.
+
+44
+00:03:45,400 --> 00:03:48,356
+Economists usually point to a few reasons:
+
+45
+00:03:48,356 --> 00:03:51,805
+a large home market that depends less on exports,
+
+46
+00:03:51,805 --> 00:03:55,887
+a currency that fell and made Polish goods cheaper abroad,
+
+47
+00:03:55,887 --> 00:03:58,350
+and EU money that kept on arriving.
+
+48
+00:03:59,750 --> 00:04:04,725
+And now, the crossings. In 2011, Poland passes Hungary.
+
+49
+00:04:05,925 --> 00:04:10,651
+Greece's debt crisis keeps pulling its line down. By 2013,
+
+50
+00:04:10,651 --> 00:04:14,400
+it has lost about a quarter of its 2008 level.
+
+51
+00:04:15,200 --> 00:04:18,425
+In 2015, Poland passes Greece.
+
+52
+00:04:19,625 --> 00:04:24,375
+Then Portugal. Through the late 2010s, the gap between them halves.
+
+53
+00:04:25,175 --> 00:04:30,389
+In 2020, the pandemic year, Portugal's figure falls by eight percent.
+
+54
+00:04:30,389 --> 00:04:35,150
+Poland's dips by less than one percent, and Poland moves ahead.
+
+55
+00:04:36,550 --> 00:04:40,319
+After the pandemic, Poland bounces straight back:
+
+56
+00:04:40,319 --> 00:04:43,550
+up eight and a half percent in 2021 alone.
+
+57
+00:04:44,550 --> 00:04:48,877
+2025. Poland: 46,925 dollars a person.
+
+58
+00:04:48,877 --> 00:04:56,050
+That's three point seven times its 1990 level, after inflation.
+
+59
+00:04:57,050 --> 00:05:07,630
+Spain: 49,318. Czechia, almost exactly the same. Italy and the UK, about 54,000.
+
+60
+00:05:07,630 --> 00:05:10,275
+And Germany, 62,824.
+
+61
+00:05:11,275 --> 00:05:16,803
+Poland has gone from 30 percent of Germany's level to 75 percent,
+
+62
+00:05:16,803 --> 00:05:19,950
+and from 40 percent of Spain's to 95.
+
+63
+00:05:21,550 --> 00:05:25,975
+But this line doesn't show everything. Here are three things it misses.
+
+64
+00:05:26,975 --> 00:05:34,599
+First, hours. In 2023, the average Polish worker worked about 1,807 hours.
+
+65
+00:05:34,599 --> 00:05:40,266
+The average German worked 1,335. That's 472 hours more:
+
+66
+00:05:40,266 --> 00:05:43,975
+about twelve extra forty-hour weeks.
+
+67
+00:05:44,975 --> 00:05:48,600
+Of these ten countries, only Greece works longer.
+
+68
+00:05:49,600 --> 00:05:52,556
+So per hour, the gap is much wider.
+
+69
+00:05:52,556 --> 00:05:59,060
+A German worker produces about 82 dollars of output an hour. A Polish worker,
+
+70
+00:05:59,060 --> 00:06:05,141
+about 47. Per person, Poland was at about 70 percent of Germany in 2023.
+
+71
+00:06:05,141 --> 00:06:07,675
+Per hour worked, it was at 57.
+
+72
+00:06:09,275 --> 00:06:14,002
+Second, not all of Poland is catching up at the same speed.
+
+73
+00:06:14,002 --> 00:06:20,572
+Eurostat compares regions with the EU average, per person and adjusted for prices.
+
+74
+00:06:20,572 --> 00:06:26,100
+In 2023, the region around Warsaw was at 155 percent of that average.
+
+75
+00:06:27,100 --> 00:06:34,352
+Lubelskie, in the east, was at 53 percent. In 2004, the two were at 108 and 37.
+
+76
+00:06:34,352 --> 00:06:39,125
+Both have risen, but the gap between them has grown.
+
+77
+00:06:40,525 --> 00:06:47,251
+Third, people. Poland's population has stayed at about 38 million since 1990.
+
+78
+00:06:47,251 --> 00:06:53,454
+The UN's central projection has it falling to about 33 million by 2050,
+
+79
+00:06:53,454 --> 00:06:55,725
+and to 19 million by 2100.
+
+80
+00:06:56,725 --> 00:06:58,826
+Fewer workers make growth harder.
+
+81
+00:06:58,826 --> 00:07:02,772
+More of it will have to come from producing more in each hour,
+
+82
+00:07:02,772 --> 00:07:04,300
+not from working longer.
+
+83
+00:07:05,900 --> 00:07:08,727
+So, what's next? Over the last ten years,
+
+84
+00:07:08,727 --> 00:07:12,173
+Poland's figure grew by about four percent a year.
+
+85
+00:07:12,173 --> 00:07:15,000
+Spain's grew by less than one and a half.
+
+86
+00:07:16,000 --> 00:07:18,885
+If both kept that pace, and that's a big if,
+
+87
+00:07:18,885 --> 00:07:23,541
+Poland would pass Spain in about two years. That's a simple projection,
+
+88
+00:07:23,541 --> 00:07:24,525
+not a forecast.
+
+89
+00:07:25,525 --> 00:07:26,881
+In thirty-five years,
+
+90
+00:07:26,881 --> 00:07:31,980
+Poland went from the bottom of this chart to within reach of Spain and Czechia.
+
+91
+00:07:31,980 --> 00:07:34,950
+None of the other nine came close to its pace.
+
+92
+00:07:36,550 --> 00:07:43,619
+Three things to take away. One: Poland's GDP per person, after inflation and prices,
+
+93
+00:07:43,619 --> 00:07:47,575
+is three point seven times what it was in 1990.
+
+94
+00:07:48,575 --> 00:07:54,819
+Two: it passed Hungary in 2011, Greece in 2015 and Portugal in 2020,
+
+95
+00:07:54,819 --> 00:07:58,125
+and it's now at 95 percent of Spain.
+
+96
+00:07:59,125 --> 00:08:03,153
+Three: the catch-up isn't finished. Poles work long hours,
+
+97
+00:08:03,153 --> 00:08:08,500
+Warsaw has pulled far ahead of the east, and the population is set to shrink.
+
+98
+00:08:09,700 --> 00:08:15,900
+Next on Terrachart: how long Europeans live, and how the south overtook the north.
+
+99
+00:08:17,100 --> 00:08:21,085
+Sources are in the description. If you live in Poland, tell us:
+
+100
+00:08:21,085 --> 00:08:25,575
+does this match what you've seen where you live? We read every comment.

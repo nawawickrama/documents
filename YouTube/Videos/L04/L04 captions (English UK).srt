@@ -1,0 +1,335 @@
+1
+00:00:01,000 --> 00:00:07,267
+In 1950, a baby born in Spain could expect to live about 62 years.
+
+2
+00:00:07,267 --> 00:00:10,400
+A baby born in Norway, almost 72.
+
+3
+00:00:11,400 --> 00:00:17,097
+Today, Spain is one of the longest-living countries in the world, at almost 84.
+
+4
+00:00:17,097 --> 00:00:18,900
+And it's ahead of Norway.
+
+5
+00:00:19,900 --> 00:00:22,896
+This is how southern Europe overtook the north,
+
+6
+00:00:22,896 --> 00:00:25,700
+and what happened in the east along the way.
+
+7
+00:00:27,300 --> 00:00:29,235
+First, what the number means.
+
+8
+00:00:29,235 --> 00:00:34,305
+Life expectancy at birth is how long a baby born in a given year would live,
+
+9
+00:00:34,305 --> 00:00:38,375
+if the death rates of that year stayed the same all its life.
+
+10
+00:00:39,375 --> 00:00:41,658
+So it isn't a forecast for anyone.
+
+11
+00:00:41,658 --> 00:00:45,485
+It's a snapshot of how healthy a country is in that year.
+
+12
+00:00:45,485 --> 00:00:49,580
+And when many babies die young, the average falls a long way,
+
+13
+00:00:49,580 --> 00:00:52,400
+which is why the early figures are so low.
+
+14
+00:00:53,400 --> 00:00:57,921
+The figures come from the United Nations' World Population Prospects,
+
+15
+00:00:57,921 --> 00:01:02,245
+through Our World in Data. Each square on this map is one country,
+
+16
+00:01:02,245 --> 00:01:05,325
+and the brighter it is, the longer people live.
+
+17
+00:01:06,725 --> 00:01:15,087
+1950. Europe as a whole: 62 years, well above the world average of 46. At the top:
+
+18
+00:01:15,087 --> 00:01:23,450
+Norway at 71.6, the Netherlands at 71.4 and Sweden at 71.1, all in the north-west.
+
+19
+00:01:24,450 --> 00:01:33,823
+Further south and east, the numbers are much lower. Italy, 65.7. Spain, 61.8.
+
+20
+00:01:33,823 --> 00:01:37,475
+Portugal, 58.5. Albania, 44.5.
+
+21
+00:01:38,475 --> 00:01:43,350
+Between the top and the bottom of this map, that's a gap of 27 years.
+
+22
+00:01:44,750 --> 00:01:47,780
+Much of that gap is children. In 1950,
+
+23
+00:01:47,780 --> 00:01:53,362
+about one child in ten in Spain died before turning five. In Portugal,
+
+24
+00:01:53,362 --> 00:01:56,950
+about one in seven. In Norway, one in thirty.
+
+25
+00:01:58,550 --> 00:02:03,248
+Then comes the long climb. Through the 1950s, 60s and 70s,
+
+26
+00:02:03,248 --> 00:02:06,650
+almost every country adds years, and fast.
+
+27
+00:02:09,650 --> 00:02:15,797
+Far fewer children die young. Vaccines and antibiotics reach almost everyone.
+
+28
+00:02:15,797 --> 00:02:20,268
+Clean water and better food do the rest. In Spain today,
+
+29
+00:02:20,268 --> 00:02:24,100
+about one child in 300 dies before turning five.
+
+30
+00:02:25,300 --> 00:02:29,962
+By 1975, Europe's average has reached almost 71,
+
+31
+00:02:29,962 --> 00:02:33,750
+nearly as high as Norway's was in 1950.
+
+32
+00:02:34,950 --> 00:02:40,175
+Spain is climbing fastest of all. It has already passed Germany and the UK.
+
+33
+00:02:41,775 --> 00:02:45,413
+And in 1982, Spain passes Norway. Since 1950,
+
+34
+00:02:45,413 --> 00:02:51,800
+it has added about five and a half months of life expectancy every single year.
+
+35
+00:02:52,800 --> 00:02:55,225
+By 1990, Europe's average is 73,
+
+36
+00:02:55,225 --> 00:03:01,591
+and the gap between the top and the bottom of the map has shrunk to about ten years.
+
+37
+00:03:01,591 --> 00:03:07,275
+Portugal, the lowest in western Europe in 1950, has gained almost 16 years.
+
+38
+00:03:08,675 --> 00:03:17,543
+But watch the east. As the Soviet Union breaks up, life expectancy in Russia falls,
+
+39
+00:03:17,543 --> 00:03:21,175
+from 69.3 in 1990 to 63.8 in 1994.
+
+40
+00:03:22,575 --> 00:03:31,900
+The Baltic states fall too. Latvia drops from 69.5 in 1990 to 65.2 in 1994.
+
+41
+00:03:33,100 --> 00:03:36,885
+By 2000, Russia is still only at 65. Ukraine,
+
+42
+00:03:36,885 --> 00:03:40,839
+Belarus and Moldova are lower than in 1990 too.
+
+43
+00:03:40,839 --> 00:03:47,400
+Researchers link it to economic collapse, alcohol and strained health systems.
+
+44
+00:03:48,400 --> 00:03:55,245
+For a decade, the gap between east and west grows instead of shrinking.
+
+45
+00:03:55,245 --> 00:04:01,125
+Spain and Russia were 7.7 years apart in 1990. By 2000, 14.4.
+
+46
+00:04:02,725 --> 00:04:05,625
+Meanwhile, the south keeps on climbing.
+
+47
+00:04:09,825 --> 00:04:16,609
+By 2019, the top three on our map are Switzerland at 83.8, Spain at 83.
+
+48
+00:04:16,609 --> 00:04:23,775
+5 and Italy at 83.3. Spain started ten years behind Norway. Now it's ahead.
+
+49
+00:04:25,375 --> 00:04:30,135
+Italy did the same, passing Norway in the late 1980s. In 2019,
+
+50
+00:04:30,135 --> 00:04:35,125
+Switzerland is the only country on the map ahead of both of them.
+
+51
+00:04:36,325 --> 00:04:43,800
+Portugal, which started at 58.5, passed Germany in 2010 and the UK in 2014.
+
+52
+00:04:45,400 --> 00:04:49,625
+Then comes the pandemic. Here are the last few years, close up.
+
+53
+00:04:52,425 --> 00:04:58,609
+Europe's average falls from 78.8 in 2019 to 77.0 in 2021,
+
+54
+00:04:58,609 --> 00:05:04,250
+the biggest fall since these figures begin, in 1950.
+
+55
+00:05:05,250 --> 00:05:12,425
+Some countries lose much more. Bulgaria drops by 3.7 years, and Russia by 3.3.
+
+56
+00:05:13,425 --> 00:05:18,127
+Others barely notice it. Norway's figure doesn't fall at all,
+
+57
+00:05:18,127 --> 00:05:23,600
+which is why Norway was briefly back ahead of Spain, from 2020 to 2022.
+
+58
+00:05:24,800 --> 00:05:32,650
+Then it recovers. By 2023, Europe is back to 79.1, higher than before the pandemic.
+
+59
+00:05:34,250 --> 00:05:42,481
+2023. Switzerland, 84.0. Italy and Spain, 83.7. Then France, Norway,
+
+60
+00:05:42,481 --> 00:05:46,475
+Malta and Sweden, all about 83.3.
+
+61
+00:05:47,475 --> 00:05:54,456
+Further down: Germany at 81.4 and the UK at 81.3. Both are now behind Spain,
+
+62
+00:05:54,456 --> 00:05:59,325
+Italy and France, and behind Portugal and Greece too.
+
+63
+00:06:00,325 --> 00:06:07,876
+Then Poland, 78.6. Hungary, 77.0. Romania, 75.9. Bulgaria, 75.6.
+
+64
+00:06:07,876 --> 00:06:16,724
+And lowest on the map: Ukraine at 73.4, Russia at 73.2 and Moldova at 71.2.
+
+65
+00:06:16,724 --> 00:06:24,275
+For comparison, the world average is 73.2, the same as Russia's.
+
+66
+00:06:25,275 --> 00:06:31,212
+Since 1950, Spain has gained almost 22 years, and Portugal almost 24.
+
+67
+00:06:31,212 --> 00:06:36,375
+The biggest gain on the map is Albania's: 35 years. Albania,
+
+68
+00:06:36,375 --> 00:06:43,000
+at the very bottom in 1950, now lives longer than Poland, Hungary or Croatia.
+
+69
+00:06:44,600 --> 00:06:50,342
+Why the south? Researchers point to several things, and no single one explains it:
+
+70
+00:06:50,342 --> 00:06:55,104
+lower rates of heart disease, diet, strong family ties into old age,
+
+71
+00:06:55,104 --> 00:06:58,325
+and health systems that reach almost everyone.
+
+72
+00:06:59,325 --> 00:07:02,871
+And Germany is the puzzle. It spends about 8,
+
+73
+00:07:02,871 --> 00:07:09,411
+300 dollars a year per person on health, adjusted for prices. Spain spends about 4,
+
+74
+00:07:09,411 --> 00:07:15,400
+900. Yet a baby born in Spain can expect to live more than two years longer.
+
+75
+00:07:17,000 --> 00:07:20,154
+Three things to take away. One:
+
+76
+00:07:20,154 --> 00:07:28,700
+Europe as a whole gained 17 years of life expectancy, from 62 in 1950 to 79 in 2023.
+
+77
+00:07:29,700 --> 00:07:35,565
+Two: the south overtook the north. Spain and Italy now live longer than Norway,
+
+78
+00:07:35,565 --> 00:07:36,975
+Sweden and Germany.
+
+79
+00:07:37,975 --> 00:07:43,269
+Three: the east fell behind in the 1990s, Russia by more than five years,
+
+80
+00:07:43,269 --> 00:07:45,300
+and it is still catching up.
+
+81
+00:07:46,500 --> 00:07:52,150
+Next on Terrachart: who works the longest hours in Europe. It's not who you think.
+
+82
+00:07:53,350 --> 00:07:55,412
+Sources are in the description.
+
+83
+00:07:55,412 --> 00:08:00,003
+Why do you think Spain and Italy live longer than Germany and the UK?
+
+84
+00:08:00,003 --> 00:08:01,600
+Tell us in the comments.

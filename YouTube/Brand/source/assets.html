@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Terrachart brand assets</title>
+<style>
+  @font-face {
+    font-family: "Inter";
+    src: url("fonts/inter-latin-wght-normal.woff2") format("woff2");
+    font-weight: 100 900;
+  }
+  :root {
+    --navy: #0d1b2a;
+    --navy-deep: #08131f;
+    --teal: #1fb5a3;
+    --amber: #ffb23f;
+    --ink: #f4f1ea;
+    --muted: #8da2b8;
+  }
+  body { margin: 0; background: transparent; font-family: "Inter", sans-serif; }
+  .asset { position: relative; overflow: hidden; margin-bottom: 40px; }
+
+  /* Profile picture: YouTube crops it to a circle */
+  #avatar { width: 800px; height: 800px; background: var(--navy); display: grid; place-items: center; }
+  #avatar svg { width: 700px; height: 700px; transform: translateX(-14px); }
+
+  /* Video watermark: transparent */
+  #watermark { width: 150px; height: 150px; display: grid; place-items: center; }
+  #watermark svg { width: 150px; height: 150px; }
+
+  /* Horizontal logo for intros and end screens: transparent */
+  #wordmark { width: 1600px; height: 400px; display: flex; align-items: center; justify-content: center; gap: 36px; }
+  #wordmark svg { width: 300px; height: 300px; }
+  .name { font-weight: 800; letter-spacing: -0.035em; color: var(--ink); line-height: 1; }
+  .name b { color: var(--amber); font-weight: 800; }
+  #wordmark .name { font-size: 170px; }
+
+  /* Banner: 2560 x 1440, text kept inside the 1546 x 423 centre that every device shows */
+  #banner {
+    width: 2560px; height: 1440px;
+    background:
+      radial-gradient(900px 520px at 50% 50%, rgba(31, 181, 163, 0.16), transparent 70%),
+      linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%);
+  }
+  #banner .ghost { position: absolute; top: 0; bottom: 0; width: 560px; display: flex; flex-direction: column; justify-content: center; gap: 26px; opacity: 0.08; }
+  #banner .ghost.left { left: 0; align-items: flex-start; -webkit-mask-image: linear-gradient(90deg, #000 30%, transparent); mask-image: linear-gradient(90deg, #000 30%, transparent); }
+  #banner .ghost.right { right: 0; align-items: flex-end; -webkit-mask-image: linear-gradient(270deg, #000 30%, transparent); mask-image: linear-gradient(270deg, #000 30%, transparent); }
+  #banner .ghost i { display: block; height: 34px; border-radius: 17px; background: var(--ink); }
+  #banner .ghost i.hi { background: var(--amber); opacity: 1; }
+  #banner .safe {
+    position: absolute; left: 507px; top: 508px; width: 1546px; height: 423px;
+    display: flex; align-items: center; justify-content: center; gap: 60px;
+  }
+  #banner .safe svg { width: 380px; height: 380px; flex: none; }
+  #banner .name { font-size: 160px; }
+  #banner .tagline { margin-top: 26px; font-size: 52px; font-weight: 500; color: var(--ink); letter-spacing: -0.01em; }
+  #banner .kicker { margin-top: 22px; font-size: 30px; font-weight: 600; color: var(--muted); letter-spacing: 0.16em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+
+<!-- The mark: a globe with a ranking inside it. The amber leader breaks out of the world. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <linearGradient id="earth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2cc9b5"/>
+      <stop offset="1" stop-color="#119585"/>
+    </linearGradient>
+    <clipPath id="globe"><circle cx="46" cy="50" r="32"/></clipPath>
+    <clipPath id="lead"><circle cx="46" cy="50" r="32"/><rect x="46" y="0" width="54" height="100"/></clipPath>
+    <symbol id="mark" viewBox="0 0 100 100">
+      <circle cx="46" cy="50" r="32" fill="url(#earth)"/>
+      <g clip-path="url(#globe)" fill="#0d1b2a">
+        <rect x="0" y="39.5" width="64" height="8" rx="4"/>
+        <rect x="0" y="52.5" width="54" height="8" rx="4"/>
+        <rect x="0" y="65.5" width="41" height="8" rx="4"/>
+      </g>
+      <rect x="0" y="26.5" width="90" height="8" rx="4" fill="#ffb23f" clip-path="url(#lead)"/>
+    </symbol>
+  </defs>
+</svg>
+
+<div class="asset" id="avatar"><svg viewBox="0 0 100 100"><use href="#mark"/></svg></div>
+
+<div class="asset" id="watermark"><svg viewBox="0 0 100 100"><use href="#mark"/></svg></div>
+
+<div class="asset" id="wordmark">
+  <svg viewBox="0 0 100 100"><use href="#mark"/></svg>
+  <div class="name">terra<b>chart</b></div>
+</div>
+
+<div class="asset" id="banner">
+  <div class="ghost left">
+    <i style="width:520px"></i><i style="width:700px"></i><i style="width:430px"></i><i style="width:610px"></i>
+    <i style="width:350px"></i><i style="width:560px"></i><i style="width:470px"></i><i style="width:660px"></i>
+    <i style="width:300px"></i><i style="width:540px"></i><i style="width:400px"></i><i style="width:620px"></i>
+    <i style="width:480px"></i><i style="width:380px"></i><i style="width:580px"></i><i style="width:450px"></i>
+    <i style="width:640px"></i><i style="width:330px"></i><i style="width:520px"></i><i style="width:420px"></i>
+  </div>
+  <div class="ghost right">
+    <i style="width:460px"></i><i style="width:380px"></i><i style="width:640px"></i><i style="width:520px"></i>
+    <i style="width:700px"></i><i style="width:410px"></i><i style="width:580px"></i><i style="width:340px"></i>
+    <i style="width:620px"></i><i style="width:490px"></i><i style="width:560px"></i><i style="width:300px"></i>
+    <i style="width:670px"></i><i style="width:440px"></i><i style="width:530px"></i><i style="width:390px"></i>
+    <i style="width:600px"></i><i style="width:470px"></i><i style="width:350px"></i><i style="width:650px"></i>
+  </div>
+  <div class="safe">
+    <svg viewBox="0 0 100 100"><use href="#mark"/></svg>
+    <div>
+      <div class="name">terra<b>chart</b></div>
+      <div class="tagline">The world, charted through time.</div>
+      <div class="kicker">Rankings · Timelines · Data stories</div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

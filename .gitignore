@@ -1,0 +1,25 @@
+# The Documents handbook repo: playbooks, READMEs, brand files, decks, PDFs, banners.
+# Code folders are their own repos (see README.md) and are left out here.
+Coredile/Coredile website/
+Coredile/Content automation/
+Coredile/Coredile POS/Source code/
+Coredile/Coredile POS/Website/
+Coredile/Coredile POS/Video studio/
+Coredile/Let's Ride/Source code/
+Coredile/Let's Ride/Video studio/
+YouTube/Studio/
+
+# Employer work stays off personal GitHub
+ToBeShore FSM/
+
+# Videos and audio: re-render them from the video studios; YouTube ones are on YouTube
+*.mp4
+*.mov
+*.wav
+
+# Old design drafts, reference only
+Coredile/Let's Ride/Design drafts/
+
+node_modules/
+.DS_Store
+.localized

@@ -1,0 +1,339 @@
+1
+00:00:01,000 --> 00:00:08,546
+Luxembourg pays the highest minimum wage in the European Union: 2,771 euros a month.
+
+2
+00:00:08,546 --> 00:00:14,925
+Bulgaria pays the lowest: 620 euros. That's four and a half times more.
+
+3
+00:00:15,925 --> 00:00:20,487
+But a euro in Sofia doesn't buy the same as a euro in Luxembourg.
+
+4
+00:00:20,487 --> 00:00:24,698
+Take out the price differences, and the gap shrinks by half.
+
+5
+00:00:24,698 --> 00:00:27,225
+And Luxembourg isn't first any more.
+
+6
+00:00:28,225 --> 00:00:32,556
+Here's what a minimum wage is really worth in every EU country,
+
+7
+00:00:32,556 --> 00:00:34,550
+and how fast that's changing.
+
+8
+00:00:36,150 --> 00:00:42,338
+First, what we're comparing. These are gross monthly minimum wages, before tax,
+
+9
+00:00:42,338 --> 00:00:46,960
+as they stood in July 2026. The figures come from Eurostat,
+
+10
+00:00:46,960 --> 00:00:49,075
+the EU's statistics office.
+
+11
+00:00:50,075 --> 00:00:55,786
+Twenty-two of the twenty-seven EU countries have a national minimum wage. Austria,
+
+12
+00:00:55,786 --> 00:00:59,129
+Denmark, Finland, Italy and Sweden don't. There,
+
+13
+00:00:59,129 --> 00:01:04,144
+pay is set in agreements between unions and employers, sector by sector,
+
+14
+00:01:04,144 --> 00:01:07,975
+and it's often higher than a national minimum would be.
+
+15
+00:01:08,975 --> 00:01:13,818
+One more detail. In some countries, such as Spain, Greece and Portugal,
+
+16
+00:01:13,818 --> 00:01:17,843
+workers receive fourteen payments a year instead of twelve.
+
+17
+00:01:17,843 --> 00:01:23,300
+Eurostat spreads those over twelve months, so every number here compares fairly.
+
+18
+00:01:24,700 --> 00:01:34,721
+Here's the ranking in euros. At the top, five countries above 2,200 euros a month:
+
+19
+00:01:34,721 --> 00:01:43,275
+Luxembourg 2,771, Ireland 2,391, Germany 2,343, the Netherlands 2,338,
+
+20
+00:01:43,275 --> 00:01:45,475
+and Belgium 2,234.
+
+21
+00:01:46,475 --> 00:01:57,518
+Then a clear step down to France, at 1,867. Then Slovenia at 1,482, and Spain at 1,
+
+22
+00:01:57,518 --> 00:01:58,050
+425.
+
+23
+00:01:59,050 --> 00:02:08,854
+In the middle, a tight group between about 1,050 and 1,150 euros: Lithuania 1,153,
+
+24
+00:02:08,854 --> 00:02:17,223
+Poland 1,119, Cyprus 1,088, Greece and Portugal at exactly 1,073 each,
+
+25
+00:02:17,223 --> 00:02:19,375
+and Croatia 1,050.
+
+26
+00:02:20,375 --> 00:02:30,161
+Below a thousand euros: Malta 994, Estonia 946, Czechia 923, Slovakia 915,
+
+27
+00:02:30,161 --> 00:02:40,475
+Hungary 906, Romania 825, and Latvia 780. And at the bottom, Bulgaria, at 620.
+
+28
+00:02:41,475 --> 00:02:45,788
+On these numbers, Europe looks like three different worlds: the west,
+
+29
+00:02:45,788 --> 00:02:47,975
+the south and centre, and the east.
+
+30
+00:02:49,575 --> 00:02:55,001
+But rent, food and transport cost very different amounts across the EU.
+
+31
+00:02:55,001 --> 00:02:59,740
+A haircut in Sofia is not priced like a haircut in Luxembourg.
+
+32
+00:02:59,740 --> 00:03:05,625
+So Eurostat also publishes these wages in purchasing power standards, or PPS.
+
+33
+00:03:06,625 --> 00:03:09,680
+Think of PPS as an artificial currency.
+
+34
+00:03:09,680 --> 00:03:15,711
+One PPS buys the same basket of everyday goods and services in every country.
+
+35
+00:03:15,711 --> 00:03:21,350
+Converting to PPS tells you what a wage actually buys where it's earned.
+
+36
+00:03:22,350 --> 00:03:24,800
+Watch what happens when we switch.
+
+37
+00:03:29,300 --> 00:03:37,406
+Germany moves to first place, with 2,164 PPS. Luxembourg drops to second, at 2,108.
+
+38
+00:03:37,406 --> 00:03:43,950
+Luxembourg's wages are the highest in euros, but so are its prices.
+
+39
+00:03:44,950 --> 00:03:51,216
+Ireland falls further: from second place to fifth, at 1,756. Prices in Ireland,
+
+40
+00:03:51,216 --> 00:03:55,182
+especially rents, are among the highest in Europe,
+
+41
+00:03:55,182 --> 00:03:58,275
+and they eat a large part of that wage.
+
+42
+00:03:59,275 --> 00:04:07,030
+Now look at Poland. In euros, it's in the middle of the pack. In buying power,
+
+43
+00:04:07,030 --> 00:04:12,200
+it's 1,547: almost exactly level with Spain's 1,556.
+
+44
+00:04:13,200 --> 00:04:21,965
+And Romania. In euros, its minimum wage is 825, far below Portugal's 1,073.
+
+45
+00:04:21,965 --> 00:04:30,846
+In buying power, Romania's is worth 1,317: ahead of both Portugal, at 1,240,
+
+46
+00:04:30,846 --> 00:04:33,300
+and Greece, at 1,229.
+
+47
+00:04:34,300 --> 00:04:41,024
+At the bottom are now Latvia and Estonia, both just under 940. Bulgaria,
+
+48
+00:04:41,024 --> 00:04:45,600
+last in euros, climbs above both of them, to 993.
+
+49
+00:04:47,000 --> 00:04:53,160
+So the gap between the highest and the lowest minimum wage isn't four and a half times.
+
+50
+00:04:53,160 --> 00:04:56,700
+In what money actually buys, it's about 2.3 times.
+
+51
+00:04:58,300 --> 00:05:02,514
+Eurostat also publishes the United States for comparison.
+
+52
+00:05:02,514 --> 00:05:06,359
+The US federal minimum wage is 7.25 dollars an hour,
+
+53
+00:05:06,359 --> 00:05:11,683
+and it hasn't changed since 2009. That works out at 1,103 euros a month,
+
+54
+00:05:11,683 --> 00:05:16,415
+or 834 in purchasing power: below every EU country on this list.
+
+55
+00:05:16,415 --> 00:05:20,333
+But many US states set a higher minimum of their own,
+
+56
+00:05:20,333 --> 00:05:24,400
+so the federal figure is a floor, not the typical wage.
+
+57
+00:05:26,000 --> 00:05:32,032
+Now, how fast is this changing? Here are the same minimum wages in euros,
+
+58
+00:05:32,032 --> 00:05:33,850
+every July since 2016.
+
+59
+00:05:34,850 --> 00:05:42,010
+In 2016, Bulgaria's minimum wage was 215 euros a month. Romania's, 276.
+
+60
+00:05:42,010 --> 00:05:49,775
+Luxembourg's was already 1,923. The highest was almost nine times the lowest.
+
+61
+00:05:50,775 --> 00:05:53,100
+Watch the bottom of the chart.
+
+62
+00:06:00,100 --> 00:06:08,823
+In ten years, Lithuania's minimum wage tripled, from 380 euros to 1,153.
+
+63
+00:06:08,823 --> 00:06:18,394
+Romania's almost tripled too, from 276 to 825. Bulgaria's went from 215 to 620,
+
+64
+00:06:18,394 --> 00:06:22,150
+and Poland's from 417 to 1,119.
+
+65
+00:06:23,150 --> 00:06:32,743
+At the other end, France grew the slowest: from 1,467 euros to 1,867, up 27 percent.
+
+66
+00:06:32,743 --> 00:06:37,425
+Malta rose 37 percent, and Luxembourg 44.
+
+67
+00:06:38,825 --> 00:06:41,997
+And Cyprus only joins the chart in 2023,
+
+68
+00:06:41,997 --> 00:06:45,725
+the year it introduced a national minimum wage.
+
+69
+00:06:46,725 --> 00:06:50,263
+Remember, these are euros at each year's prices,
+
+70
+00:06:50,263 --> 00:06:52,916
+and part of every rise is inflation,
+
+71
+00:06:52,916 --> 00:06:58,592
+which was very high across the EU in 2022 and 2023. But the catch-up is real.
+
+72
+00:06:58,592 --> 00:07:04,194
+In euros, the highest minimum wage was almost nine times the lowest in 2016.
+
+73
+00:07:04,194 --> 00:07:07,437
+Today it's four and a half. In buying power,
+
+74
+00:07:07,437 --> 00:07:10,975
+the gap fell from three and a half times to 2.3.
+
+75
+00:07:12,575 --> 00:07:17,530
+Three things to take away. One: the gap between east and west is real,
+
+76
+00:07:17,530 --> 00:07:23,475
+but in what money actually buys, it's about half as big as the euro figures suggest.
+
+77
+00:07:24,475 --> 00:07:29,080
+Two: a high wage doesn't help as much when prices are high too.
+
+78
+00:07:29,080 --> 00:07:31,200
+Ask anyone renting in Dublin.
+
+79
+00:07:32,200 --> 00:07:38,011
+Three: the countries at the bottom are catching up fast. In ten years, Lithuania,
+
+80
+00:07:38,011 --> 00:07:42,100
+Romania and Bulgaria roughly tripled their minimum wages.
+
+81
+00:07:43,300 --> 00:07:46,351
+A minimum wage isn't the whole story: taxes,
+
+82
+00:07:46,351 --> 00:07:51,482
+rents and how many people actually earn it all differ. Next on Terrachart:
+
+83
+00:07:51,482 --> 00:07:58,000
+how Poland went from one of Europe's poorest economies to one of its biggest catch-up stories.
+
+84
+00:07:59,200 --> 00:08:01,232
+Sources are in the description.
+
+85
+00:08:01,232 --> 00:08:06,475
+Tell us what the minimum wage really buys where you live. We read every comment.
