@@ -56,14 +56,29 @@ of personal GitHub). Keep `node_modules`, `out/` and finished videos out of git.
 
 ## Setting up a new computer
 
-1. Clone the Documents repo into `~/Documents` (playbooks, READMEs, brand files, decks, PDFs, banners), then clone each code
-   repo from the table above into its folder (for example `Coredile-com/pos` into `Coredile/Coredile POS/Source code`).
-   Videos are not in git: re-render them in the matching `Video studio` (YouTube ones are on the channel).
-   ToBeShore FSM is not in git: copy it over by hand.
-2. `node_modules` is not backed up: run `npm install` (or `pnpm install` for the POS) in each project before using it.
-3. YouTube music beds are not in git: rebuild with `YouTube/Studio/scripts/music.py`.
-4. Recreate the YouTube rules shortcut (see `YouTube/CLAUDE.md`).
-5. Install the fonts Jost and Noto Sans Sinhala for the sales decks.
+**1. Install the tools** (versions used on the old Mac):
+Xcode and its command line tools · Homebrew · Node 22 · pnpm 12.8.1 · PHP 8.4 + Composer (Laravel Herd gives both) ·
+Docker Desktop · Flutter 3.47 · Python 3 · Claude desktop app (Cowork / Claude Code) · fonts Jost and Noto Sans Sinhala (for the decks).
+
+**2. Give the Mac access to GitHub:** make an SSH key (`ssh-keygen -t ed25519`) and add it to your GitHub account
+(Settings → SSH and GPG keys). It must reach the `Coredile-com` and `Let-s-Ride` organisations.
+
+**3. Get everything:**
+```
+git clone git@github.com:nawawickrama/documents.git ~/Documents
+bash ~/Documents/setup-new-mac.sh
+```
+The script clones every code repo into its folder, installs packages, runs `flutter pub get`, and recreates the YouTube rules shortcut.
+
+**4. By hand afterwards:**
+- `.env` files are never in git. Copy them from the old Mac (POS `backend/.env`, Let's Ride `frontend/.env.local`, and so on) or rebuild them from each `.env.example`.
+- POS databases: start Docker, then follow `Coredile POS/Source code` README (`coredile`, `coredile_test`, the `coredile_platform` role).
+- POS browser tests: `pnpm exec playwright install` in `Coredile POS/Source code`.
+- YouTube music beds: `python3 scripts/music.py <id> <seconds> …` in `YouTube/Studio` (needs numpy).
+- The Kokoro voice model downloads on the first `npm run voice`.
+- Videos are not in git: re-render in the matching `Video studio` when needed. YouTube ones are on the channel.
+- ToBeShore FSM is not in git: copy that folder over by hand (USB drive or AirDrop).
+- Sign in to the Claude desktop app, open `~/Documents` as the folder, and it will read `CLAUDE.md`.
 
 ## Moved on 3 Nov 2026
 
