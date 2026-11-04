@@ -1,0 +1,27 @@
+1
+00:00:00,500 --> 00:00:06,425
+A household in Ireland pays 39 cents for every kilowatt-hour of electricity.
+
+2
+00:00:06,825 --> 00:00:12,300
+In Hungary: 11 cents. Same electricity, more than three times the price.
+
+3
+00:00:13,100 --> 00:00:17,934
+For a home that uses 3,500 kilowatt-hours a year,
+
+4
+00:00:17,934 --> 00:00:24,050
+that's about 1,355 euros in Ireland, and about 400 in Hungary.
+
+5
+00:00:24,450 --> 00:00:30,357
+Hungary's prices are set by the state. In Ireland, the energy itself is expensive,
+
+6
+00:00:30,357 --> 00:00:32,950
+because much of it is made from gas.
+
+7
+00:00:33,350 --> 00:00:37,175
+Where does your country sit? All of Europe is in our full video.

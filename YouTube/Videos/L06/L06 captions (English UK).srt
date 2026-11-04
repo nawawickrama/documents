@@ -1,0 +1,407 @@
+1
+00:00:01,000 --> 00:00:07,425
+A household in Ireland pays 39 cents for every kilowatt-hour of electricity.
+
+2
+00:00:07,425 --> 00:00:09,200
+In Hungary, 11 cents.
+
+3
+00:00:10,200 --> 00:00:13,750
+Same electricity, more than three times the price.
+
+4
+00:00:14,950 --> 00:00:20,013
+So how did Europe's power bills get here? Here's every price since 2008,
+
+5
+00:00:20,013 --> 00:00:23,600
+the year they exploded, and why the gap is so wide.
+
+6
+00:00:25,200 --> 00:00:27,419
+First, what we're measuring.
+
+7
+00:00:27,419 --> 00:00:33,045
+These are Eurostat's prices for what it calls a medium-sized household:
+
+8
+00:00:33,045 --> 00:00:37,800
+one that uses between 2,500 and 5,000 kilowatt-hours a year.
+
+9
+00:00:38,800 --> 00:00:43,825
+A kilowatt-hour is what a 1,000-watt heater uses in an hour.
+
+10
+00:00:44,825 --> 00:00:48,273
+Every tax and charge is included, and since 2021,
+
+11
+00:00:48,273 --> 00:00:52,917
+so are the discounts and credits governments gave to soften bills.
+
+12
+00:00:52,917 --> 00:00:58,686
+The prices are in euros, every six months, and they're not adjusted for inflation.
+
+13
+00:00:58,686 --> 00:01:00,375
+We'll come back to that.
+
+14
+00:01:01,975 --> 00:01:06,825
+The first half of 2008. The EU average is 16 cents.
+
+15
+00:01:07,825 --> 00:01:15,125
+Denmark is the most expensive, at 26 cents. Then Germany, at 21, and Italy, at 20.
+
+16
+00:01:16,125 --> 00:01:22,048
+The cheapest is Bulgaria, at 7 cents, then Estonia and Latvia, at 8. And Hungary,
+
+17
+00:01:22,048 --> 00:01:27,825
+today the cheapest in the EU? Back then it paid 15 cents, close to the average.
+
+18
+00:01:29,025 --> 00:01:32,377
+For the next thirteen years, prices creep up slowly,
+
+19
+00:01:32,377 --> 00:01:35,600
+by about two and a half percent a year on average.
+
+20
+00:01:39,600 --> 00:01:44,578
+By the first half of 2021, the EU average is 22 cents.
+
+21
+00:01:44,578 --> 00:01:51,400
+Germany is now the most expensive, at 32, with Denmark close behind at 29.
+
+22
+00:01:52,400 --> 00:01:53,191
+In Germany,
+
+23
+00:01:53,191 --> 00:01:58,944
+a big part of that price was a surcharge that paid for new wind and solar power.
+
+24
+00:01:58,944 --> 00:02:04,625
+It was scrapped in July 2022, but by then, something much bigger was happening.
+
+25
+00:02:06,225 --> 00:02:09,669
+Gas prices had been climbing through 2021.
+
+26
+00:02:09,669 --> 00:02:15,900
+After Russia's invasion of Ukraine in February 2022, they rose much further.
+
+27
+00:02:18,900 --> 00:02:24,339
+In much of Europe, gas power stations set the wholesale price of electricity,
+
+28
+00:02:24,339 --> 00:02:26,600
+so power prices followed gas up.
+
+29
+00:02:27,600 --> 00:02:33,420
+In the second half of 2022, a Danish household pays 59 cents a kilowatt-hour.
+
+30
+00:02:33,420 --> 00:02:37,350
+That's twice what it paid a year and a half earlier.
+
+31
+00:02:38,350 --> 00:02:42,350
+Belgium pays 45 cents. Italy, 36.
+
+32
+00:02:43,750 --> 00:02:46,731
+But not everyone felt it the same way.
+
+33
+00:02:46,731 --> 00:02:52,064
+France capped the rise in its regulated prices at 4 percent in 2022,
+
+34
+00:02:52,064 --> 00:02:54,025
+so its line barely moves.
+
+35
+00:02:55,025 --> 00:03:00,393
+Spain and Portugal capped the price of the gas used to make electricity.
+
+36
+00:03:00,393 --> 00:03:05,313
+Spanish prices still jumped, to 34 cents, but they fell back fast,
+
+37
+00:03:05,313 --> 00:03:07,550
+to 25 cents within six months.
+
+38
+00:03:08,550 --> 00:03:13,687
+And in Hungary, household prices have been set by the state since 2013.
+
+39
+00:03:13,687 --> 00:03:17,450
+Its line stays almost flat through the whole crisis.
+
+40
+00:03:18,850 --> 00:03:24,350
+Gas prices fell back during 2023. But the EU average didn't.
+
+41
+00:03:27,350 --> 00:03:32,803
+It stayed high, and reached its highest point in the first half of 2024,
+
+42
+00:03:32,803 --> 00:03:33,712
+at 29 cents.
+
+43
+00:03:33,712 --> 00:03:40,150
+Many contracts and regulated prices take months or years to catch up with the market.
+
+44
+00:03:41,150 --> 00:03:43,950
+Since then, it has hardly come down.
+
+45
+00:03:45,150 --> 00:03:49,752
+In the first half of 2026, the EU average is 28 cents,
+
+46
+00:03:49,752 --> 00:03:52,650
+less than one cent below the peak.
+
+47
+00:03:53,650 --> 00:03:56,635
+Denmark is the exception. In January,
+
+48
+00:03:56,635 --> 00:04:01,152
+it cut its electricity tax almost to zero for two years.
+
+49
+00:04:01,152 --> 00:04:05,750
+Its price fell from 33 cents to 24 in a single half-year.
+
+50
+00:04:07,350 --> 00:04:14,712
+Here's the full ranking for early 2026. The most expensive is Ireland, at 39 cents.
+
+51
+00:04:14,712 --> 00:04:19,325
+Then Germany and Belgium, at 36, and Austria, at 33.
+
+52
+00:04:20,325 --> 00:04:24,600
+Then Italy and Sweden, at 31, and Poland, at 30.
+
+53
+00:04:25,600 --> 00:04:30,847
+In the middle are Spain and France, at 25 cents, and the Netherlands,
+
+54
+00:04:30,847 --> 00:04:32,900
+Greece and Portugal, at 24.
+
+55
+00:04:33,900 --> 00:04:39,697
+The cheapest are Bulgaria and Malta, at 13 cents, and Hungary, at 11.
+
+56
+00:04:39,697 --> 00:04:44,150
+Outside the EU, Norway pays 20 cents, and Iceland 21.
+
+57
+00:04:45,550 --> 00:04:51,478
+Poland is the one to watch. In late 2022 it paid 16 cents. Now it pays 30,
+
+58
+00:04:51,478 --> 00:04:55,885
+almost twice as much. Part of that is a stronger zloty,
+
+59
+00:04:55,885 --> 00:04:59,650
+which makes Polish prices look higher in euros.
+
+60
+00:05:00,650 --> 00:05:05,576
+Romania jumped too. Its price cap ended in July 2025,
+
+61
+00:05:05,576 --> 00:05:09,200
+and its price went from 19 cents to 29.
+
+62
+00:05:10,800 --> 00:05:17,403
+So how much dearer is electricity than in 2008? Comparing whole years,
+
+63
+00:05:17,403 --> 00:05:24,950
+the EU average rose from 16 cents in 2008 to 29 in 2025. That's 76 percent more.
+
+64
+00:05:25,950 --> 00:05:31,036
+But prices in general rose too, by 47 percent over the same years.
+
+65
+00:05:31,036 --> 00:05:36,970
+So after inflation, electricity costs about a fifth more than it did in 2008.
+
+66
+00:05:36,970 --> 00:05:41,825
+A real rise, but not the near-doubling the raw numbers suggest.
+
+67
+00:05:43,425 --> 00:05:49,002
+Why does one country pay three times as much as another? Every bill has three parts:
+
+68
+00:05:49,002 --> 00:05:53,650
+the energy itself, the network that brings it to your home, and taxes.
+
+69
+00:05:54,650 --> 00:06:02,109
+Across the EU in 2025, the energy was about 12 cents a kilowatt-hour, the network 8,
+
+70
+00:06:02,109 --> 00:06:03,175
+and taxes 8.
+
+71
+00:06:04,175 --> 00:06:07,145
+In Denmark, taxes were almost half the bill.
+
+72
+00:06:07,145 --> 00:06:11,128
+That's why cutting them made such a difference. In Germany,
+
+73
+00:06:11,128 --> 00:06:14,975
+the network and taxes together cost more than the energy.
+
+74
+00:06:15,975 --> 00:06:19,742
+In Hungary, the energy part was just two and a half cents,
+
+75
+00:06:19,742 --> 00:06:22,925
+because the state sets the price, not the market.
+
+76
+00:06:23,925 --> 00:06:25,436
+Ireland is different.
+
+77
+00:06:25,436 --> 00:06:31,048
+Its government gave households credits that more than cancelled out the taxes.
+
+78
+00:06:31,048 --> 00:06:35,509
+But the energy part alone was 23 cents, the highest in the EU.
+
+79
+00:06:35,509 --> 00:06:40,762
+Ireland makes much of its electricity from gas, so when gas is expensive,
+
+80
+00:06:40,762 --> 00:06:41,625
+so is power.
+
+81
+00:06:43,225 --> 00:06:46,766
+What does that mean for a year's electricity?
+
+82
+00:06:46,766 --> 00:06:50,700
+Take a home that uses 3,500 kilowatt-hours a year.
+
+83
+00:06:51,700 --> 00:07:00,697
+At the EU average price, that's about 990 euros. In Ireland, about 1,355.
+
+84
+00:07:00,697 --> 00:07:05,750
+In Germany, 1,266. In Hungary, about 400.
+
+85
+00:07:06,750 --> 00:07:12,570
+The thin bars show the same home in 2008. The Irish bill has more than doubled.
+
+86
+00:07:12,570 --> 00:07:17,137
+The Hungarian one is lower than it was, even before inflation.
+
+87
+00:07:17,137 --> 00:07:18,905
+These are illustrations:
+
+88
+00:07:18,905 --> 00:07:23,325
+real bills add standing charges and depend on your contract.
+
+89
+00:07:24,725 --> 00:07:28,923
+And cheap in euros isn't always cheap for the people paying.
+
+90
+00:07:28,923 --> 00:07:33,191
+Bulgaria has some of the lowest electricity prices in the EU,
+
+91
+00:07:33,191 --> 00:07:35,500
+and also the lowest minimum wage.
+
+92
+00:07:36,500 --> 00:07:42,475
+We looked at what wages really buy in our video on minimum wages across the EU.
+
+93
+00:07:44,075 --> 00:07:50,446
+Three things to take away. One: Ireland now pays the most for electricity in the EU,
+
+94
+00:07:50,446 --> 00:07:55,300
+39 cents a kilowatt-hour, more than three times Hungary's price.
+
+95
+00:07:56,300 --> 00:08:02,970
+Two: the 2022 shock never fully went away. The EU average is still 28 cents,
+
+96
+00:08:02,970 --> 00:08:04,550
+close to its peak.
+
+97
+00:08:05,550 --> 00:08:05,955
+Three:
+
+98
+00:08:05,955 --> 00:08:12,230
+where your country sits on this chart depends less on the weather than on politics and pipes.
+
+99
+00:08:12,230 --> 00:08:16,750
+Taxes, price caps and how much gas you burn decide most of the gap.
+
+100
+00:08:17,950 --> 00:08:24,600
+Next on Terrachart: Europe's biggest populations, from 1950 to 2100.
+
+101
+00:08:25,800 --> 00:08:30,707
+Sources are in the description. What do you pay per kilowatt-hour where you live?
+
+102
+00:08:30,707 --> 00:08:33,675
+Check your last bill and tell us in the comments.

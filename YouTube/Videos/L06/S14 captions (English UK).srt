@@ -1,0 +1,31 @@
+1
+00:00:00,500 --> 00:00:07,700
+In early 2008, a Danish household paid 26 cents for a kilowatt-hour of electricity.
+
+2
+00:00:08,100 --> 00:00:10,900
+For years, the price crept up slowly.
+
+3
+00:00:13,300 --> 00:00:17,668
+Then, in the second half of 2022, gas prices soared,
+
+4
+00:00:17,668 --> 00:00:24,725
+and Danish electricity hit 59 cents a kilowatt-hour. More than twice the 2008 price.
+
+5
+00:00:25,125 --> 00:00:30,500
+The EU average peaked later, in early 2024, at 29 cents.
+
+6
+00:00:30,900 --> 00:00:37,441
+Now Denmark has cut its electricity tax almost to zero, and it pays 24 cents.
+
+7
+00:00:37,441 --> 00:00:40,075
+Less than the EU average of 28.
+
+8
+00:00:40,475 --> 00:00:44,750
+The whole story of Europe's power prices is in our full video.
