@@ -56,8 +56,8 @@ to it. On a new computer, recreate that shortcut:
 ## Made so far (as of 4 Nov 2026)
 
 L01 Europe's biggest economies (S01, S02, S05) · L02 minimum wages (S03, S04) · L03 How Poland caught up (S06, S07) ·
-L04 life expectancy (S08, S09, public Mon 9 Nov 17:00 CET). L05 working hours (S10, S11, scheduled: L05 public Wed 11 Nov 17:00 CET). L06 electricity prices (S13, S14, scheduled: L06 public Sat 14 Nov 15:00 CET). S12 (Italian house prices) scheduled Fri 13 Nov 19:00 CET.
+L04 life expectancy (S08, S09, public Mon 9 Nov 17:00 CET). L05 working hours (S10, S11, scheduled: L05 public Wed 11 Nov 17:00 CET). L06 electricity prices (S13, S14, scheduled: L06 public Sat 14 Nov 15:00 CET). S12 (Italian house prices) scheduled Fri 13 Nov 19:00 CET. L07 populations (S15, S16, S19, scheduled: L07 public Mon 16 Nov 17:00 CET).
 L08 (Champions League winners) still needs UEFA data and the 2026 winner.
 Open follow-ups: L02 related video on S03/S04 and pin comment (after 4 Nov 17:00 CET); L03 on S06/S07 (after 7 Nov 15:00);
 L04 on S08/S09 (after 9 Nov 17:00);
-L05 on S10/S11 (after 11 Nov 17:00); L06 on S13/S14 (after 14 Nov 15:00); L12 on S12 (after 28 Nov).
+L05 on S10/S11 (after 11 Nov 17:00); L06 on S13/S14 (after 14 Nov 15:00); L07 on S15/S16/S19 (after 16 Nov 17:00); L12 on S12 (after 28 Nov).
