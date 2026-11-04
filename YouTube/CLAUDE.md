@@ -48,8 +48,13 @@ to it. On a new computer, recreate that shortcut:
 - I pick the file myself when it's over 10 MB (Claude in Chrome only attaches files under 10 MB, so Shorts can be attached directly;
   the browser pane can't use the file picker).
 - Schedule: Time zone "(GMT+01:00) Berlin", then date and time. Add six title translations (Languages → Add language).
-- End screen: "Import from latest video", then stretch the video slot. Needs a Chrome window about 1280 px wide.
-- Focus a Studio field with JavaScript before typing, or keystrokes hit the preview player.
+- End screen: "Import from video", then stretch the video slot (the import resets it to the small size) and pick the plan's
+  video with the pencil next to it. Needs a Chrome window about 1280 px wide.
+- Focus a Studio field with JavaScript before typing, or keystrokes hit the preview player. Title and description go in with
+  `execCommand('insertText')` into the dialog's `#textbox` fields; thumbnails, captions and Shorts go into the hidden file input.
+- Translations: add one language at a time (Add language → language → title → Update). Clicking several in a row only keeps the last.
+- Captions: after saving, the Subtitles row must say "by you". If it says "by YouTube (automatic)", open Languages → Edit subtitles and Publish.
+- A Short's related video can only be a public video, so it gets set after its long video goes public.
 - After a long video goes public: set it as the related video on its Shorts and pin its comment.
   Session-only reminders die when the session ends, so list open follow-ups in `Videos/<id>/Upload details.md`.
 
